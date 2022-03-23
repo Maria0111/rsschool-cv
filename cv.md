@@ -18,3 +18,24 @@ that this is not my dream job. At the moment I want to enter the field of IT. It
 * CSS 
 * Adobe After Effects, Adobe Audition, Adobe Illustrator, Adobe Photosho, Adobe Premiere Pro
 
+### **Code Examples**
+```
+function pow (x,n){
+    return x**n
+}
+let x = prompt ("x", )
+let n = prompt ("n", )
+if (n < 1){
+    alert ("числа")
+} else {
+alert (pow (x,n));
+}
+```
+
+### **Education**
+* Grodno State College of Engineering, Technology and Design
+ + Technician-programmer. Computer graphics.
+
+### **Languages**
+* Russian
+* English
